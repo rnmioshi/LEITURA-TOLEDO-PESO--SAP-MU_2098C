@@ -1,0 +1,17 @@
+C:\Users\Robinson\Documents\Visual Studio 2013\Projects\COM_TERMINAL\obj\Debug\PESO.csprojResolveAssemblyReference.cache
+C:\Users\Robinson\Documents\Visual Studio 2013\Projects\COM_TERMINAL\obj\Debug\WindowsFormsApplication1.PESO.resources
+C:\Users\Robinson\Documents\Visual Studio 2013\Projects\COM_TERMINAL\obj\Debug\PESO.Properties.Resources.resources
+C:\Users\Robinson\Documents\Visual Studio 2013\Projects\COM_TERMINAL\obj\Debug\PESO.csproj.GenerateResource.Cache
+C:\Users\Robinson\Documents\Visual Studio 2013\Projects\COM_TERMINAL\bin\Debug\PESO.exe
+C:\Users\Robinson\Documents\Visual Studio 2013\Projects\COM_TERMINAL\bin\Debug\PESO.pdb
+C:\Users\Robinson\Documents\Visual Studio 2013\Projects\COM_TERMINAL\obj\Debug\PESO.exe
+C:\Users\Robinson\Documents\Visual Studio 2013\Projects\COM_TERMINAL\obj\Debug\PESO.pdb
+C:\Users\umiosro\Documents\SharpDevelop Projects\COM_TERMINAL\bin\Debug\PESO.exe.config
+C:\Users\umiosro\Documents\SharpDevelop Projects\COM_TERMINAL\bin\Debug\PESO.exe
+C:\Users\umiosro\Documents\SharpDevelop Projects\COM_TERMINAL\bin\Debug\PESO.pdb
+C:\Users\umiosro\Documents\SharpDevelop Projects\COM_TERMINAL\obj\Debug\PESO.csprojResolveAssemblyReference.cache
+C:\Users\umiosro\Documents\SharpDevelop Projects\COM_TERMINAL\obj\Debug\WindowsFormsApplication1.PESO.resources
+C:\Users\umiosro\Documents\SharpDevelop Projects\COM_TERMINAL\obj\Debug\PESO.Properties.Resources.resources
+C:\Users\umiosro\Documents\SharpDevelop Projects\COM_TERMINAL\obj\Debug\PESO.csproj.GenerateResource.Cache
+C:\Users\umiosro\Documents\SharpDevelop Projects\COM_TERMINAL\obj\Debug\PESO.exe
+C:\Users\umiosro\Documents\SharpDevelop Projects\COM_TERMINAL\obj\Debug\PESO.pdb
